@@ -14,9 +14,10 @@
 <img src="https://github.com/receptahaydin/AppJam2024/assets/146810287/18b37123-5ce0-4fc7-99d0-dc3f91df9ac5" alt="alt text" width="320" height="320">
 <img src="https://github.com/receptahaydin/AppJam2024/assets/146810287/22d6594c-2bc1-4eb1-8d39-03f853afa47b" alt="alt text" width="320" height="320">
 <img src="https://github.com/receptahaydin/AppJam2024/assets/146810287/87cddb3c-898c-4bfa-9a87-71cde5b47bcf" alt="alt text" width="320" height="320">
-<img src="https://github.com/receptahaydin/AppJam2024/assets/146810287/70909602-9b32-43cf-a7ba-2fc5ad6925da" alt="alt text" width="320" height="320">
-
+<img src="https://github.com/receptahaydin/AppJam2024/assets/146810287/70909602-9b32-43cf-a7ba-2fc5ad6925da" alt="alt text" width="320" height="320"><br>
+Flutter son sürümde ve kullandığımız cihaz pixel 3a API 34
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Geçmişin gizemli kapılarını arala, efsanelerle dolu bir dünyaya adım at!<br>
 Uygulamamıza kayıt olduktan sonra, kolayca giriş yapabilir ve tarihi sayfaları aralayarak efsanelerle dolu bir dünyayı keşfe çıkabilirsiniz.<br>
